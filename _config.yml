@@ -22,9 +22,11 @@ permalink: pretty
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
+emailform: https://goo.gl/forms/JDvNSRvocdRzfSyu2
 
 social:
   - title: twitter
     url: https://twitter.com/it2_go2
   - title: linkedin
     url: https://www.linkedin.com/company-beta/16200226/
+
