@@ -8,7 +8,7 @@ email: it2go2now@gmail.com
 author: Michael Navazhylau
 description: > # "Write an awesome description for your new site here. 
   Do want to know the difference between myth and fact when it comes to Hacking. Here at IT2GO2 we provide the facts.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
+copyright: 'Copyright &copy; 2017 IT2GO2 LLC. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
@@ -25,8 +25,6 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://twitter.com/it2_go2
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com/company-beta/16200226/
