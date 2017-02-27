@@ -168,3 +168,7 @@ p.copyright {
 #about {
     margin-bottom: 50px;
 }
+
+.about-description {
+    font-size: 1.25em;
+}
